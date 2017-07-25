@@ -1,0 +1,5 @@
+print ('Γειά σου Κόσμε')
+print ('Olá Mundo')
+print ('안녕 세상')
+print ('你好，世界')
+print (':)')
